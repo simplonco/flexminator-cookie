@@ -3,6 +3,20 @@ html, body {
     margin: 0;
 }
 
+header{
+    width: 100%;
+    height: 400px;
+    background-image: url('https://hd.unsplash.com/photo-1433162653888-a571db5ccccf');
+    background-size: cover;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.bandeau{
+	height: 20%;
+	background-color: rgba(255, 255, 255, 0.8);
+	border-top: 1px #ffffff;
+}
 
 #grid{
 	display: flex;
