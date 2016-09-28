@@ -40,3 +40,18 @@ header{
 	flex-direction:column;
 }
 }
+body{
+	margin:0px;
+	padding: 0px;
+}
+footer {
+	height: 200px;
+	width: 100%;
+	background-color: #A20515;
+	opacity:0.1;
+	display: flex;
+	flex-direction:column;
+    
+}
+
+
